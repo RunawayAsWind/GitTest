@@ -6,3 +6,6 @@ bbbbbbbbbb
 
 branchtest1 Commit1
 AAAAAAAAA
+
+branchtest1 Commit2
+BBBBBBBBB
