@@ -1,16 +1,16 @@
 # GitTest
 Test Git push and pull
 
-#Code
+# Code
 some code example
 
-##Cmake
+## Cmake
 ```CMake
 source_group(${groupname} FILES ${dircode})
 ```
 
-#Media
+# Media
 some code example
 
-##Picture
+## Picture
 ![image](AssetsForRead/pic.jpg)
